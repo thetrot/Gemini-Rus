@@ -12,15 +12,15 @@
 ### Взята из официального репозитория - https://github.com/Mellow-3D/Fly-Gemini
 ---
 ## Настройки самой платы
-### WiFi - 'nmtui'
-### Айпишник - 'ip a'
-### Смена пароля - 'passwd fly'
+### WiFi - `nmtui`
+### Айпишник - `ip a`
+### Смена пароля - `passwd fly`
 ---
 ## Настройка Klipper
-### Запустить Kiauh - './kiauh/kiauh.sh'
-### Снести Kiauh - 'rm -rf kiauh'
-### Загрузить Kiauh - 'git clone https://github.com/th33xitus/kiauh'
-### Запустить Kiauh - './kiauh/kiauh.sh'
-### Меню прошивки - cd ~/klipper/ && make menuconfig
+### Запустить Kiauh - `./kiauh/kiauh.sh`
+### Снести Kiauh - `rm -rf kiauh`
+### Загрузить Kiauh - `git clone https://github.com/th33xitus/kiauh`
+### Запустить Kiauh - `./kiauh/kiauh.sh`
+### Меню прошивки - `cd ~/klipper/ && make menuconfig`
 ![Config](/Assets/klipper.png)
-### Билдим - make
+### Билдим - `make`

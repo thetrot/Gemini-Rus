@@ -24,3 +24,7 @@
 ### Меню прошивки - `cd ~/klipper/ && make menuconfig`
 ![Config](/Assets/klipper.png)
 ### Билдим - `make`
+### Джамперы
+![Config](/Assets/Gem1.png)
+![Config](/Assets/Gem2.png)
+![Config](/Assets/Gem3.png)
